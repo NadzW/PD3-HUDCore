@@ -908,22 +908,6 @@
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AssetDumper/Binaries/Win64/UE4Editor-AssetDumper.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/AssetDumper/Binaries/Win64/UE4Editor-AssetDumper.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/AssetGenerator/Binaries/Win64/UE4Editor-AssetGenerator.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/AssetGenerator/Binaries/Win64/UE4Editor-AssetGenerator.pdb",
-			"Type": "SymbolFile"
-		},
-		{
 			"Path": "$(ProjectDir)/Plugins/DummyFactories/Binaries/Win64/UE4Editor-DummyFactories.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -953,14 +937,6 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/SBZAnalyticsLegacy/Binaries/Win64/UE4Editor-SBZAnalyticsLegacy.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/UnrealAutoMod/Binaries/Win64/UE4Editor-UnrealAutoMod.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/UnrealAutoMod/Binaries/Win64/UE4Editor-UnrealAutoMod.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -1601,6 +1577,62 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Lumin/MagicLeapLightEstimation/Binaries/Win64/UE4Editor-MagicLeapLightEstimation.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RD.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RD.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLink.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLink.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLogging.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLogging.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderBlueprint.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderBlueprint.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderGameControl.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderGameControl.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderShaderInfo.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderShaderInfo.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLC.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor-RiderLC.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -5156,14 +5188,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AssetDumper/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/AssetGenerator/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
 			"Path": "$(ProjectDir)/Plugins/DummyFactories/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
@@ -5177,10 +5201,6 @@
 		},
 		{
 			"Path": "$(ProjectDir)/Plugins/SBZAnalyticsLegacy/Binaries/Win64/UE4Editor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/UnrealAutoMod/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5369,6 +5389,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Lumin/MagicLeapLightEstimation/Binaries/Win64/UE4Editor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/Binaries/Win64/UE4Editor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -5802,14 +5826,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AssetDumper/AssetDumper.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/AssetGenerator/AssetGenerator.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(ProjectDir)/Plugins/DummyFactories/DummyFactories.uplugin",
 			"Type": "UFS"
 		},
@@ -5830,11 +5846,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/SBZPakAuditTool/SBZPakAuditTool.uplugin",
+			"Path": "$(ProjectDir)/Plugins/SBZEOSP2PConfig/SBZEOSP2PConfig.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/UnrealAutoMod/UnrealAutoMod.uplugin",
+			"Path": "$(ProjectDir)/Plugins/SBZPakAuditTool/SBZPakAuditTool.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -6023,6 +6039,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Lumin/MagicLeapLightEstimation/MagicLeapLightEstimation.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Developer/RiderLink/RiderLink.uplugin",
 			"Type": "UFS"
 		},
 		{

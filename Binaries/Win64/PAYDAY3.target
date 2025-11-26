@@ -346,14 +346,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/AssetDumper/AssetDumper.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/AssetGenerator/AssetGenerator.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(ProjectDir)/Plugins/DummyFactories/DummyFactories.uplugin",
 			"Type": "UFS"
 		},
@@ -374,11 +366,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/SBZPakAuditTool/SBZPakAuditTool.uplugin",
+			"Path": "$(ProjectDir)/Plugins/SBZEOSP2PConfig/SBZEOSP2PConfig.uplugin",
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(ProjectDir)/Plugins/UnrealAutoMod/UnrealAutoMod.uplugin",
+			"Path": "$(ProjectDir)/Plugins/SBZPakAuditTool/SBZPakAuditTool.uplugin",
 			"Type": "UFS"
 		},
 		{
