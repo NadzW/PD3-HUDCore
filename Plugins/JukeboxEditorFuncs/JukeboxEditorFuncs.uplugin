@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "JukeboxEditorFuncs",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "braidy08",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "JukeboxEditorFuncs",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
